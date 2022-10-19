@@ -4,7 +4,7 @@ Matplotlib is a python library used for creating static, animated and inetractiv
 
 ## Contents:
 
-1. [Basics]
+1. Basics
 
 This repository contains notes for the basics of Matplotlib and other simple projects and visualizations created using it.
 
